@@ -1,2 +1,2 @@
-**JAVA &JAVA GUI & MySql 를 이용한 Quiz Game**
+**JAVA & JAVA GUI( AWT, Swing ) & MySql 를 이용한 Quiz Game**
 
